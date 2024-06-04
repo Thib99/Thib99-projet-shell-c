@@ -1,0 +1,32 @@
+ls
+touch a1
+touch a12
+touch a123
+touch a1234
+touch a12345
+touch a123456
+touch a1234567
+touch a12345678
+touch a123456789
+touch a12345678910
+cd
+ls
+rm a1234567
+rm a12345678
+ls
+mkdir dico
+cd dico
+touch a1
+touch a12
+touch a123
+touch a1234
+touch a12345
+touch a123456
+touch a1234567
+touch a12345678
+touch a123456789
+touch a12345678910
+cd
+mkdir larouse
+cp dico/a123 larouse
+print

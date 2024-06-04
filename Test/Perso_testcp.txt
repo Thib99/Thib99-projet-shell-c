@@ -1,0 +1,12 @@
+mkdir zozo
+cd zozo
+touch fic1
+touch fic22
+mkdir 1
+cd 1
+touch PAris
+mkdir campagne
+cd
+mkdir test
+cp zozo test/zoula
+print
